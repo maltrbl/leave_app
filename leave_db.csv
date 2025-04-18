@@ -1,0 +1,4 @@
+employee_id,name,email,employee_no,contact_no,department,manager_email,entity,leave_annual,leave_medical
+E001,Nurul,nurul@pmcc.com,PMCC-001,0123456789,Finance,manager1@pmcc.com,PMCC Ent A,12,8
+E002,Arif,arif@pmcc.com,PMCC-002,0191234567,IT,manager2@pmcc.com,PMCC Ent B,10,5
+E003,Aida,aida@pmcc.com,PMCC-003,0177654321,HR,manager3@pmcc.com,PMCC Ent A,5,2
